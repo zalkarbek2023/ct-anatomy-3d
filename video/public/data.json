@@ -1,0 +1,18 @@
+{
+ "hero": {
+  "case": "s1922",
+  "seconds": 9.95,
+  "found": 113,
+  "ct_slices": 421
+ },
+ "eval": {
+  "cases": 20,
+  "median_dice": 0.9172,
+  "structure_checks": 1840,
+  "pct_above_090": 58,
+  "median_seconds": 10.43,
+  "min_seconds": 3.98,
+  "max_seconds": 66.67
+ },
+ "repo": "github.com/zalkarbek2023/ct-anatomy-3d"
+}

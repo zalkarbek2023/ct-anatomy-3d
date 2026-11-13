@@ -1,0 +1,1935 @@
+{
+ "structures": [
+  {
+   "name": "liver",
+   "id": 1,
+   "system": "organ",
+   "tris": 33586,
+   "color": [
+    0.62,
+    0.27,
+    0.2
+   ],
+   "centroid": [
+    -6.39,
+    3.46,
+    2.08
+   ],
+   "volume_ml": 2377.6
+  },
+  {
+   "name": "spleen",
+   "id": 3,
+   "system": "organ",
+   "tris": 22418,
+   "color": [
+    0.55,
+    0.22,
+    0.38
+   ],
+   "centroid": [
+    10.73,
+    3.2,
+    -2.55
+   ],
+   "volume_ml": 699.0
+  },
+  {
+   "name": "pancreas",
+   "id": 4,
+   "system": "organ",
+   "tris": 3850,
+   "color": [
+    0.93,
+    0.7,
+    0.3
+   ],
+   "centroid": [
+    0.54,
+    -3.09,
+    4.67
+   ],
+   "volume_ml": 72.1
+  },
+  {
+   "name": "right kidney",
+   "id": 5,
+   "system": "organ",
+   "tris": 5360,
+   "color": [
+    0.8,
+    0.42,
+    0.28
+   ],
+   "centroid": [
+    -6.54,
+    -3.86,
+    -3.9
+   ],
+   "volume_ml": 135.7
+  },
+  {
+   "name": "aorta",
+   "id": 6,
+   "system": "artery",
+   "tris": 9008,
+   "color": [
+    1.0,
+    0.27,
+    0.24
+   ],
+   "centroid": [
+    0.72,
+    14.37,
+    -0.91
+   ],
+   "volume_ml": 168.9
+  },
+  {
+   "name": "inferior vena cava",
+   "id": 7,
+   "system": "vein",
+   "tris": 3596,
+   "color": [
+    0.3,
+    0.48,
+    1.0
+   ],
+   "centroid": [
+    -3.06,
+    2.64,
+    -0.43
+   ],
+   "volume_ml": 62.7
+  },
+  {
+   "name": "right adrenal gland",
+   "id": 8,
+   "system": "organ",
+   "tris": 684,
+   "color": [
+    0.95,
+    0.76,
+    0.35
+   ],
+   "centroid": [
+    -4.16,
+    1.97,
+    -3.18
+   ],
+   "volume_ml": 5.2
+  },
+  {
+   "name": "left adrenal gland",
+   "id": 9,
+   "system": "organ",
+   "tris": 600,
+   "color": [
+    0.95,
+    0.76,
+    0.35
+   ],
+   "centroid": [
+    4.42,
+    -1.42,
+    1.34
+   ],
+   "volume_ml": 4.8
+  },
+  {
+   "name": "gallbladder",
+   "id": 10,
+   "system": "organ",
+   "tris": 2348,
+   "color": [
+    0.3,
+    0.7,
+    0.32
+   ],
+   "centroid": [
+    -8.28,
+    -3.43,
+    5.04
+   ],
+   "volume_ml": 60.8
+  },
+  {
+   "name": "esophagus",
+   "id": 11,
+   "system": "organ",
+   "tris": 3765,
+   "color": [
+    0.95,
+    0.65,
+    0.62
+   ],
+   "centroid": [
+    -0.57,
+    17.57,
+    -1.94
+   ],
+   "volume_ml": 48.0
+  },
+  {
+   "name": "stomach",
+   "id": 12,
+   "system": "organ",
+   "tris": 20809,
+   "color": [
+    0.9,
+    0.58,
+    0.52
+   ],
+   "centroid": [
+    5.14,
+    5.33,
+    4.09
+   ],
+   "volume_ml": 695.9
+  },
+  {
+   "name": "duodenum",
+   "id": 13,
+   "system": "organ",
+   "tris": 3340,
+   "color": [
+    0.88,
+    0.62,
+    0.44
+   ],
+   "centroid": [
+    -3.08,
+    -5.79,
+    3.37
+   ],
+   "volume_ml": 66.6
+  },
+  {
+   "name": "left kidney",
+   "id": 14,
+   "system": "organ",
+   "tris": 6039,
+   "color": [
+    0.8,
+    0.42,
+    0.28
+   ],
+   "centroid": [
+    7.46,
+    -6.08,
+    -0.03
+   ],
+   "volume_ml": 159.1
+  },
+  {
+   "name": "bladder",
+   "id": 15,
+   "system": "organ",
+   "tris": 2929,
+   "color": [
+    0.92,
+    0.82,
+    0.4
+   ],
+   "centroid": [
+    1.6,
+    -17.97,
+    -0.7
+   ],
+   "volume_ml": 78.6
+  },
+  {
+   "name": "portal vein and splenic vein",
+   "id": 17,
+   "system": "vein",
+   "tris": 1382,
+   "color": [
+    0.3,
+    0.48,
+    1.0
+   ],
+   "centroid": [
+    -3.53,
+    0.21,
+    3.2
+   ],
+   "volume_ml": 10.9
+  },
+  {
+   "name": "small bowel",
+   "id": 19,
+   "system": "organ",
+   "tris": 35324,
+   "color": [
+    0.86,
+    0.64,
+    0.46
+   ],
+   "centroid": [
+    -4.96,
+    -12.05,
+    8.53
+   ],
+   "volume_ml": 837.4
+  },
+  {
+   "name": "brain",
+   "id": 22,
+   "system": "organ",
+   "tris": 200,
+   "color": [
+    0.95,
+    0.76,
+    0.78
+   ],
+   "centroid": [
+    10.65,
+    19.73,
+    -1.36
+   ],
+   "volume_ml": 0.1
+  },
+  {
+   "name": "left lung upper lobe",
+   "id": 28,
+   "system": "lung",
+   "tris": 28013,
+   "color": [
+    0.55,
+    0.75,
+    0.92
+   ],
+   "centroid": [
+    8.36,
+    18.47,
+    -2.33
+   ],
+   "volume_ml": 433.0
+  },
+  {
+   "name": "left lung lower lobe",
+   "id": 29,
+   "system": "lung",
+   "tris": 14126,
+   "color": [
+    0.55,
+    0.75,
+    0.92
+   ],
+   "centroid": [
+    8.78,
+    10.77,
+    -6.14
+   ],
+   "volume_ml": 137.2
+  },
+  {
+   "name": "right lung upper lobe",
+   "id": 30,
+   "system": "lung",
+   "tris": 14502,
+   "color": [
+    0.55,
+    0.75,
+    0.92
+   ],
+   "centroid": [
+    -6.01,
+    20.27,
+    1.15
+   ],
+   "volume_ml": 763.6
+  },
+  {
+   "name": "right lung middle lobe",
+   "id": 31,
+   "system": "lung",
+   "tris": 14118,
+   "color": [
+    0.55,
+    0.75,
+    0.92
+   ],
+   "centroid": [
+    -7.17,
+    12.83,
+    -3.16
+   ],
+   "volume_ml": 390.7
+  },
+  {
+   "name": "right lung lower lobe",
+   "id": 32,
+   "system": "lung",
+   "tris": 15199,
+   "color": [
+    0.55,
+    0.75,
+    0.92
+   ],
+   "centroid": [
+    -6.57,
+    14.7,
+    -5.67
+   ],
+   "volume_ml": 559.2
+  },
+  {
+   "name": "vertebrae L5",
+   "id": 33,
+   "system": "bone",
+   "tris": 3675,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    0.81,
+    -11.56,
+    -5.91
+   ],
+   "volume_ml": 53.5
+  },
+  {
+   "name": "vertebrae L4",
+   "id": 34,
+   "system": "bone",
+   "tris": 4697,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    1.07,
+    -8.75,
+    -5.23
+   ],
+   "volume_ml": 71.6
+  },
+  {
+   "name": "vertebrae L3",
+   "id": 35,
+   "system": "bone",
+   "tris": 4484,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    1.16,
+    -5.61,
+    -5.47
+   ],
+   "volume_ml": 70.6
+  },
+  {
+   "name": "vertebrae L2",
+   "id": 36,
+   "system": "bone",
+   "tris": 4346,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    0.97,
+    -2.33,
+    -6.19
+   ],
+   "volume_ml": 65.9
+  },
+  {
+   "name": "vertebrae L1",
+   "id": 37,
+   "system": "bone",
+   "tris": 3868,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    0.92,
+    0.76,
+    -7.21
+   ],
+   "volume_ml": 60.2
+  },
+  {
+   "name": "vertebrae T12",
+   "id": 38,
+   "system": "bone",
+   "tris": 3383,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    1.06,
+    3.73,
+    -8.14
+   ],
+   "volume_ml": 53.2
+  },
+  {
+   "name": "vertebrae T11",
+   "id": 39,
+   "system": "bone",
+   "tris": 3369,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    0.95,
+    6.51,
+    -8.93
+   ],
+   "volume_ml": 50.5
+  },
+  {
+   "name": "vertebrae T10",
+   "id": 40,
+   "system": "bone",
+   "tris": 3036,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    0.93,
+    9.21,
+    -9.79
+   ],
+   "volume_ml": 44.3
+  },
+  {
+   "name": "vertebrae T9",
+   "id": 41,
+   "system": "bone",
+   "tris": 3198,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    0.9,
+    11.14,
+    -10.58
+   ],
+   "volume_ml": 42.6
+  },
+  {
+   "name": "vertebrae T8",
+   "id": 42,
+   "system": "bone",
+   "tris": 2924,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    0.83,
+    14.48,
+    -10.22
+   ],
+   "volume_ml": 40.4
+  },
+  {
+   "name": "vertebrae T7",
+   "id": 43,
+   "system": "bone",
+   "tris": 2625,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    0.79,
+    17.0,
+    -10.0
+   ],
+   "volume_ml": 35.1
+  },
+  {
+   "name": "vertebrae T6",
+   "id": 44,
+   "system": "bone",
+   "tris": 2484,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    0.68,
+    19.38,
+    -9.35
+   ],
+   "volume_ml": 31.3
+  },
+  {
+   "name": "vertebrae T5",
+   "id": 45,
+   "system": "bone",
+   "tris": 2472,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    0.46,
+    21.72,
+    -8.22
+   ],
+   "volume_ml": 29.4
+  },
+  {
+   "name": "vertebrae T4",
+   "id": 46,
+   "system": "bone",
+   "tris": 2357,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    0.34,
+    23.73,
+    -7.05
+   ],
+   "volume_ml": 28.1
+  },
+  {
+   "name": "vertebrae T3",
+   "id": 47,
+   "system": "bone",
+   "tris": 2282,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    0.32,
+    25.78,
+    -5.76
+   ],
+   "volume_ml": 26.4
+  },
+  {
+   "name": "vertebrae T2",
+   "id": 48,
+   "system": "bone",
+   "tris": 2191,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    0.24,
+    27.76,
+    -4.39
+   ],
+   "volume_ml": 25.6
+  },
+  {
+   "name": "vertebrae T1",
+   "id": 49,
+   "system": "bone",
+   "tris": 1966,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    0.2,
+    29.44,
+    -2.99
+   ],
+   "volume_ml": 23.0
+  },
+  {
+   "name": "vertebrae C7",
+   "id": 50,
+   "system": "bone",
+   "tris": 1386,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    0.04,
+    30.73,
+    -1.5
+   ],
+   "volume_ml": 14.2
+  },
+  {
+   "name": "vertebrae C6",
+   "id": 51,
+   "system": "bone",
+   "tris": 219,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    -0.14,
+    31.19,
+    0.54
+   ],
+   "volume_ml": 1.8
+  },
+  {
+   "name": "vertebrae C5",
+   "id": 52,
+   "system": "bone",
+   "tris": 60,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    7.05,
+    -5.45,
+    -3.0
+   ],
+   "volume_ml": 0.0
+  },
+  {
+   "name": "vertebrae C4",
+   "id": 53,
+   "system": "bone",
+   "tris": 40,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    2.9,
+    3.85,
+    -4.68
+   ],
+   "volume_ml": 0.0
+  },
+  {
+   "name": "trachea",
+   "id": 57,
+   "system": "organ",
+   "tris": 2600,
+   "color": [
+    0.6,
+    0.82,
+    0.92
+   ],
+   "centroid": [
+    -0.98,
+    23.08,
+    0.15
+   ],
+   "volume_ml": 34.3
+  },
+  {
+   "name": "left iliac artery",
+   "id": 58,
+   "system": "artery",
+   "tris": 1151,
+   "color": [
+    1.0,
+    0.27,
+    0.24
+   ],
+   "centroid": [
+    4.84,
+    -14.15,
+    0.15
+   ],
+   "volume_ml": 7.3
+  },
+  {
+   "name": "right iliac artery",
+   "id": 59,
+   "system": "artery",
+   "tris": 1014,
+   "color": [
+    1.0,
+    0.27,
+    0.24
+   ],
+   "centroid": [
+    -2.86,
+    -16.7,
+    -0.58
+   ],
+   "volume_ml": 6.4
+  },
+  {
+   "name": "left iliac vena",
+   "id": 60,
+   "system": "vein",
+   "tris": 2036,
+   "color": [
+    0.3,
+    0.48,
+    1.0
+   ],
+   "centroid": [
+    3.92,
+    -16.74,
+    -1.33
+   ],
+   "volume_ml": 23.4
+  },
+  {
+   "name": "right iliac vena",
+   "id": 61,
+   "system": "vein",
+   "tris": 1302,
+   "color": [
+    0.3,
+    0.48,
+    1.0
+   ],
+   "centroid": [
+    -2.91,
+    -17.43,
+    -1.24
+   ],
+   "volume_ml": 11.5
+  },
+  {
+   "name": "colon",
+   "id": 62,
+   "system": "organ",
+   "tris": 21208,
+   "color": [
+    0.82,
+    0.56,
+    0.4
+   ],
+   "centroid": [
+    -0.48,
+    -10.34,
+    5.56
+   ],
+   "volume_ml": 385.9
+  },
+  {
+   "name": "left rib 1",
+   "id": 63,
+   "system": "bone",
+   "tris": 1449,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    5.05,
+    27.14,
+    1.56
+   ],
+   "volume_ml": 12.2
+  },
+  {
+   "name": "left rib 2",
+   "id": 64,
+   "system": "bone",
+   "tris": 1391,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    6.74,
+    26.68,
+    -0.72
+   ],
+   "volume_ml": 8.3
+  },
+  {
+   "name": "left rib 3",
+   "id": 65,
+   "system": "bone",
+   "tris": 1826,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    8.59,
+    24.4,
+    -0.94
+   ],
+   "volume_ml": 10.8
+  },
+  {
+   "name": "left rib 4",
+   "id": 66,
+   "system": "bone",
+   "tris": 3425,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    10.05,
+    20.96,
+    -0.55
+   ],
+   "volume_ml": 24.9
+  },
+  {
+   "name": "left rib 5",
+   "id": 67,
+   "system": "bone",
+   "tris": 1770,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    10.23,
+    19.95,
+    -3.83
+   ],
+   "volume_ml": 13.7
+  },
+  {
+   "name": "left rib 6",
+   "id": 68,
+   "system": "bone",
+   "tris": 2394,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    10.86,
+    16.48,
+    -0.78
+   ],
+   "volume_ml": 17.1
+  },
+  {
+   "name": "left rib 7",
+   "id": 69,
+   "system": "bone",
+   "tris": 2361,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    11.53,
+    14.25,
+    -2.23
+   ],
+   "volume_ml": 18.8
+  },
+  {
+   "name": "left rib 8",
+   "id": 70,
+   "system": "bone",
+   "tris": 2520,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    12.05,
+    12.22,
+    -5.06
+   ],
+   "volume_ml": 19.8
+  },
+  {
+   "name": "left rib 9",
+   "id": 71,
+   "system": "bone",
+   "tris": 2732,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    11.92,
+    9.16,
+    -5.96
+   ],
+   "volume_ml": 21.2
+  },
+  {
+   "name": "left rib 10",
+   "id": 72,
+   "system": "bone",
+   "tris": 2422,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    11.86,
+    5.67,
+    -7.08
+   ],
+   "volume_ml": 17.6
+  },
+  {
+   "name": "left rib 11",
+   "id": 73,
+   "system": "bone",
+   "tris": 1628,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    10.9,
+    2.75,
+    -8.52
+   ],
+   "volume_ml": 11.0
+  },
+  {
+   "name": "left rib 12",
+   "id": 74,
+   "system": "bone",
+   "tris": 872,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    8.06,
+    0.63,
+    -9.23
+   ],
+   "volume_ml": 5.4
+  },
+  {
+   "name": "right rib 1",
+   "id": 75,
+   "system": "bone",
+   "tris": 1340,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    -4.92,
+    26.82,
+    0.92
+   ],
+   "volume_ml": 12.4
+  },
+  {
+   "name": "right rib 2",
+   "id": 76,
+   "system": "bone",
+   "tris": 1608,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -6.59,
+    25.66,
+    0.31
+   ],
+   "volume_ml": 11.7
+  },
+  {
+   "name": "right rib 3",
+   "id": 77,
+   "system": "bone",
+   "tris": 2088,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    -7.84,
+    23.61,
+    -0.35
+   ],
+   "volume_ml": 14.3
+  },
+  {
+   "name": "right rib 4",
+   "id": 78,
+   "system": "bone",
+   "tris": 2494,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -8.8,
+    20.87,
+    -0.56
+   ],
+   "volume_ml": 18.8
+  },
+  {
+   "name": "right rib 5",
+   "id": 79,
+   "system": "bone",
+   "tris": 2615,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    -9.24,
+    18.27,
+    -0.96
+   ],
+   "volume_ml": 20.7
+  },
+  {
+   "name": "right rib 6",
+   "id": 80,
+   "system": "bone",
+   "tris": 2936,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -9.84,
+    15.72,
+    -1.44
+   ],
+   "volume_ml": 25.5
+  },
+  {
+   "name": "right rib 7",
+   "id": 81,
+   "system": "bone",
+   "tris": 2922,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    -10.35,
+    13.39,
+    -3.4
+   ],
+   "volume_ml": 25.0
+  },
+  {
+   "name": "right rib 8",
+   "id": 82,
+   "system": "bone",
+   "tris": 2634,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -10.56,
+    11.28,
+    -6.2
+   ],
+   "volume_ml": 20.6
+  },
+  {
+   "name": "right rib 9",
+   "id": 83,
+   "system": "bone",
+   "tris": 2585,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    -10.76,
+    8.15,
+    -6.79
+   ],
+   "volume_ml": 21.1
+  },
+  {
+   "name": "right rib 10",
+   "id": 84,
+   "system": "bone",
+   "tris": 2276,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -10.52,
+    5.27,
+    -8.17
+   ],
+   "volume_ml": 16.1
+  },
+  {
+   "name": "right rib 11",
+   "id": 85,
+   "system": "bone",
+   "tris": 1630,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    -9.36,
+    1.94,
+    -9.52
+   ],
+   "volume_ml": 11.1
+  },
+  {
+   "name": "right rib 12",
+   "id": 86,
+   "system": "bone",
+   "tris": 878,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -6.23,
+    -0.52,
+    -9.76
+   ],
+   "volume_ml": 5.4
+  },
+  {
+   "name": "left humerus",
+   "id": 87,
+   "system": "bone",
+   "tris": 6108,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    9.28,
+    22.78,
+    -3.7
+   ],
+   "volume_ml": 97.7
+  },
+  {
+   "name": "right humerus",
+   "id": 88,
+   "system": "bone",
+   "tris": 8366,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -13.7,
+    22.55,
+    -5.25
+   ],
+   "volume_ml": 119.3
+  },
+  {
+   "name": "left scapula",
+   "id": 89,
+   "system": "bone",
+   "tris": 6526,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    11.72,
+    27.93,
+    -6.14
+   ],
+   "volume_ml": 61.8
+  },
+  {
+   "name": "right scapula",
+   "id": 90,
+   "system": "bone",
+   "tris": 7373,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -8.97,
+    27.51,
+    -7.01
+   ],
+   "volume_ml": 73.6
+  },
+  {
+   "name": "left clavicula",
+   "id": 91,
+   "system": "bone",
+   "tris": 1485,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    5.51,
+    29.49,
+    1.76
+   ],
+   "volume_ml": 19.4
+  },
+  {
+   "name": "right clavicula",
+   "id": 92,
+   "system": "bone",
+   "tris": 1727,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -6.37,
+    29.21,
+    2.41
+   ],
+   "volume_ml": 24.7
+  },
+  {
+   "name": "left femur",
+   "id": 93,
+   "system": "bone",
+   "tris": 6524,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    13.15,
+    -6.16,
+    -3.45
+   ],
+   "volume_ml": 188.3
+  },
+  {
+   "name": "right femur",
+   "id": 94,
+   "system": "bone",
+   "tris": 7067,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -13.45,
+    2.07,
+    -5.05
+   ],
+   "volume_ml": 177.7
+  },
+  {
+   "name": "left hip",
+   "id": 95,
+   "system": "bone",
+   "tris": 16249,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    8.31,
+    -17.51,
+    -4.38
+   ],
+   "volume_ml": 323.4
+  },
+  {
+   "name": "right hip",
+   "id": 96,
+   "system": "bone",
+   "tris": 17038,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -6.05,
+    -14.16,
+    -5.2
+   ],
+   "volume_ml": 319.4
+  },
+  {
+   "name": "sacrum",
+   "id": 97,
+   "system": "bone",
+   "tris": 10259,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    1.59,
+    -15.81,
+    -9.61
+   ],
+   "volume_ml": 161.2
+  },
+  {
+   "name": "left gluteus maximus",
+   "id": 98,
+   "system": "muscle",
+   "tris": 14057,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    11.28,
+    -17.49,
+    -9.45
+   ],
+   "volume_ml": 541.2
+  },
+  {
+   "name": "right gluteus maximus",
+   "id": 99,
+   "system": "muscle",
+   "tris": 13559,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    -7.83,
+    -21.19,
+    -10.07
+   ],
+   "volume_ml": 476.3
+  },
+  {
+   "name": "left gluteus medius",
+   "id": 100,
+   "system": "muscle",
+   "tris": 7487,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    12.28,
+    -14.37,
+    -5.01
+   ],
+   "volume_ml": 237.0
+  },
+  {
+   "name": "right gluteus medius",
+   "id": 101,
+   "system": "muscle",
+   "tris": 7047,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    -9.28,
+    -13.4,
+    -5.41
+   ],
+   "volume_ml": 194.2
+  },
+  {
+   "name": "left gluteus minimus",
+   "id": 102,
+   "system": "muscle",
+   "tris": 2973,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    12.02,
+    -17.55,
+    -2.52
+   ],
+   "volume_ml": 52.6
+  },
+  {
+   "name": "right gluteus minimus",
+   "id": 103,
+   "system": "muscle",
+   "tris": 3416,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    -9.52,
+    -17.9,
+    -4.03
+   ],
+   "volume_ml": 60.7
+  },
+  {
+   "name": "left autochthon",
+   "id": 104,
+   "system": "muscle",
+   "tris": 15704,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    3.74,
+    7.07,
+    -10.28
+   ],
+   "volume_ml": 463.2
+  },
+  {
+   "name": "right autochthon",
+   "id": 105,
+   "system": "muscle",
+   "tris": 15856,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    -1.74,
+    7.2,
+    -10.41
+   ],
+   "volume_ml": 461.3
+  },
+  {
+   "name": "left iliopsoas",
+   "id": 106,
+   "system": "muscle",
+   "tris": 10075,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    7.95,
+    -13.49,
+    -2.6
+   ],
+   "volume_ml": 225.7
+  },
+  {
+   "name": "right iliopsoas",
+   "id": 107,
+   "system": "muscle",
+   "tris": 9457,
+   "color": [
+    0.62,
+    0.22,
+    0.24
+   ],
+   "centroid": [
+    -5.77,
+    -14.77,
+    -3.15
+   ],
+   "volume_ml": 217.3
+  },
+  {
+   "name": "left atrial appendage",
+   "id": 108,
+   "system": "heart",
+   "tris": 200,
+   "color": [
+    0.93,
+    0.25,
+    0.3
+   ],
+   "centroid": [
+    1.48,
+    16.25,
+    0.02
+   ],
+   "volume_ml": 1.2
+  },
+  {
+   "name": "brachiocephalic trunk",
+   "id": 109,
+   "system": "artery",
+   "tris": 425,
+   "color": [
+    1.0,
+    0.27,
+    0.24
+   ],
+   "centroid": [
+    -1.37,
+    24.87,
+    1.86
+   ],
+   "volume_ml": 4.2
+  },
+  {
+   "name": "left brachiocephalic vein",
+   "id": 110,
+   "system": "vein",
+   "tris": 1000,
+   "color": [
+    0.3,
+    0.48,
+    1.0
+   ],
+   "centroid": [
+    0.59,
+    24.12,
+    2.77
+   ],
+   "volume_ml": 8.2
+  },
+  {
+   "name": "right brachiocephalic vein",
+   "id": 111,
+   "system": "vein",
+   "tris": 354,
+   "color": [
+    0.3,
+    0.48,
+    1.0
+   ],
+   "centroid": [
+    -3.49,
+    25.1,
+    1.62
+   ],
+   "volume_ml": 2.9
+  },
+  {
+   "name": "left common carotid artery",
+   "id": 112,
+   "system": "artery",
+   "tris": 548,
+   "color": [
+    1.0,
+    0.27,
+    0.24
+   ],
+   "centroid": [
+    1.59,
+    27.61,
+    1.53
+   ],
+   "volume_ml": 3.9
+  },
+  {
+   "name": "right common carotid artery",
+   "id": 113,
+   "system": "artery",
+   "tris": 325,
+   "color": [
+    1.0,
+    0.27,
+    0.24
+   ],
+   "centroid": [
+    -3.08,
+    28.61,
+    1.89
+   ],
+   "volume_ml": 2.3
+  },
+  {
+   "name": "costal cartilages",
+   "id": 114,
+   "system": "bone",
+   "tris": 14151,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    0.16,
+    12.66,
+    8.78
+   ],
+   "volume_ml": 169.1
+  },
+  {
+   "name": "heart",
+   "id": 115,
+   "system": "heart",
+   "tris": 13616,
+   "color": [
+    0.93,
+    0.25,
+    0.3
+   ],
+   "centroid": [
+    1.75,
+    15.55,
+    2.02
+   ],
+   "volume_ml": 416.1
+  },
+  {
+   "name": "right kidney cyst",
+   "id": 117,
+   "system": "organ",
+   "tris": 200,
+   "color": [
+    0.8,
+    0.42,
+    0.28
+   ],
+   "centroid": [
+    8.65,
+    8.86,
+    -8.77
+   ],
+   "volume_ml": 0.3
+  },
+  {
+   "name": "prostate",
+   "id": 118,
+   "system": "organ",
+   "tris": 1491,
+   "color": [
+    0.72,
+    0.54,
+    0.84
+   ],
+   "centroid": [
+    1.68,
+    -24.88,
+    -4.35
+   ],
+   "volume_ml": 37.9
+  },
+  {
+   "name": "pulmonary vein",
+   "id": 119,
+   "system": "vein",
+   "tris": 1710,
+   "color": [
+    0.3,
+    0.48,
+    1.0
+   ],
+   "centroid": [
+    -3.05,
+    9.32,
+    -2.06
+   ],
+   "volume_ml": 11.5
+  },
+  {
+   "name": "skull",
+   "id": 120,
+   "system": "bone",
+   "tris": 203,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -2.85,
+    7.95,
+    -9.92
+   ],
+   "volume_ml": 0.9
+  },
+  {
+   "name": "spinal cord",
+   "id": 121,
+   "system": "organ",
+   "tris": 5808,
+   "color": [
+    1.0,
+    0.88,
+    0.54
+   ],
+   "centroid": [
+    0.83,
+    7.91,
+    -7.65
+   ],
+   "volume_ml": 74.4
+  },
+  {
+   "name": "sternum",
+   "id": 122,
+   "system": "bone",
+   "tris": 4933,
+   "color": [
+    0.783,
+    0.757,
+    0.688
+   ],
+   "centroid": [
+    -0.37,
+    20.73,
+    7.8
+   ],
+   "volume_ml": 78.5
+  },
+  {
+   "name": "left subclavian artery",
+   "id": 123,
+   "system": "artery",
+   "tris": 734,
+   "color": [
+    1.0,
+    0.27,
+    0.24
+   ],
+   "centroid": [
+    4.6,
+    26.38,
+    -0.53
+   ],
+   "volume_ml": 4.5
+  },
+  {
+   "name": "right subclavian artery",
+   "id": 124,
+   "system": "artery",
+   "tris": 674,
+   "color": [
+    1.0,
+    0.27,
+    0.24
+   ],
+   "centroid": [
+    -5.57,
+    27.34,
+    0.18
+   ],
+   "volume_ml": 5.1
+  },
+  {
+   "name": "superior vena cava",
+   "id": 125,
+   "system": "vein",
+   "tris": 1763,
+   "color": [
+    0.3,
+    0.48,
+    1.0
+   ],
+   "centroid": [
+    -3.11,
+    1.34,
+    0.16
+   ],
+   "volume_ml": 16.7
+  },
+  {
+   "name": "thyroid gland",
+   "id": 126,
+   "system": "organ",
+   "tris": 1086,
+   "color": [
+    0.78,
+    0.49,
+    0.86
+   ],
+   "centroid": [
+    -0.69,
+    29.85,
+    2.87
+   ],
+   "volume_ml": 12.5
+  },
+  {
+   "name": "vertebrae S1",
+   "id": 127,
+   "system": "bone",
+   "tris": 2826,
+   "color": [
+    0.91,
+    0.88,
+    0.8
+   ],
+   "centroid": [
+    1.13,
+    -13.61,
+    -6.93
+   ],
+   "volume_ml": 45.4
+  }
+ ],
+ "extent_cm": [
+  43.1,
+  63.2,
+  31.4
+ ],
+ "centre_cm": [
+  2.634,
+  -37.67,
+  9.509
+ ]
+}

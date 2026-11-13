@@ -1,0 +1,17 @@
+.venv/
+models/
+data/v2/
+data/v3/
+data/index_*.json
+data/meta_*.csv
+data/names_*.txt
+out/
+node_modules/
+video/out/
+video/public/anatomy.glb
+video/public/slices/
+*.mp4
+*.plan
+*.onnx
+.DS_Store
+__pycache__/

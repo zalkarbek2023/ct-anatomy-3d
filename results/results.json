@@ -1,0 +1,478 @@
+{
+ "cases": [
+  {
+   "case": "s1922",
+   "age": 74.0,
+   "study": "ct angiography neck-thx-abd-pelvis-leg",
+   "grid": [
+    293,
+    266,
+    421
+   ],
+   "torch_s": 11.04,
+   "trt_s": 9.95,
+   "vram_gb": 9.98,
+   "found": 114,
+   "scored": 103,
+   "median_dice": 0.9304,
+   "torch_trt_max_abs_dice_diff": 0.0008
+  },
+  {
+   "case": "s1806",
+   "age": 35.0,
+   "study": "ct neck-chest-abdomen-pelvis",
+   "grid": [
+    333,
+    236,
+    347
+   ],
+   "torch_s": 11.74,
+   "trt_s": 10.91,
+   "vram_gb": 8.65,
+   "found": 90,
+   "scored": 72,
+   "median_dice": 0.9324,
+   "torch_trt_max_abs_dice_diff": 0.0015
+  },
+  {
+   "case": "s2032",
+   "age": 25.0,
+   "study": "ct abdomen-pelvis",
+   "grid": [
+    239,
+    207,
+    311
+   ],
+   "torch_s": 4.49,
+   "trt_s": 4.03,
+   "vram_gb": 5.81,
+   "found": 82,
+   "scored": 67,
+   "median_dice": 0.9612,
+   "torch_trt_max_abs_dice_diff": 0.0015
+  },
+  {
+   "case": "s1836",
+   "age": 67.0,
+   "study": "ct polytrauma",
+   "grid": [
+    315,
+    274,
+    1227
+   ],
+   "torch_s": 47.35,
+   "trt_s": 50.4,
+   "vram_gb": 12.71,
+   "found": 117,
+   "scored": 109,
+   "median_dice": 0.8869,
+   "torch_trt_max_abs_dice_diff": 0.0022
+  },
+  {
+   "case": "s1959",
+   "age": 40.0,
+   "study": "ct abdomen-pelvis",
+   "grid": [
+    269,
+    247,
+    346
+   ],
+   "torch_s": 8.84,
+   "trt_s": 7.93,
+   "vram_gb": 7.63,
+   "found": 86,
+   "scored": 69,
+   "median_dice": 0.9552,
+   "torch_trt_max_abs_dice_diff": 0.0018
+  },
+  {
+   "case": "s1872",
+   "age": 55.0,
+   "study": "ct polytrauma",
+   "grid": [
+    333,
+    299,
+    883
+   ],
+   "torch_s": 32.96,
+   "trt_s": 40.6,
+   "vram_gb": 12.65,
+   "found": 116,
+   "scored": 113,
+   "median_dice": 0.9199,
+   "torch_trt_max_abs_dice_diff": 0.0023
+  },
+  {
+   "case": "s1710",
+   "age": 73.0,
+   "study": "ct abdomen / pelvis",
+   "grid": [
+    247,
+    210,
+    307
+   ],
+   "torch_s": 4.49,
+   "trt_s": 4.01,
+   "vram_gb": 5.94,
+   "found": 88,
+   "scored": 72,
+   "median_dice": 0.9559,
+   "torch_trt_max_abs_dice_diff": 0.0005
+  },
+  {
+   "case": "s1935",
+   "age": 37.0,
+   "study": "ct abdomen-pelvis",
+   "grid": [
+    252,
+    235,
+    294
+   ],
+   "torch_s": 6.62,
+   "trt_s": 5.92,
+   "vram_gb": 6.3,
+   "found": 78,
+   "scored": 64,
+   "median_dice": 0.9624,
+   "torch_trt_max_abs_dice_diff": 0.0004
+  },
+  {
+   "case": "s2029",
+   "age": 68.0,
+   "study": "ct abdomen-pelvis",
+   "grid": [
+    279,
+    248,
+    334
+   ],
+   "torch_s": 8.83,
+   "trt_s": 7.87,
+   "vram_gb": 7.66,
+   "found": 92,
+   "scored": 76,
+   "median_dice": 0.9311,
+   "torch_trt_max_abs_dice_diff": 0.0009
+  },
+  {
+   "case": "s1553",
+   "age": 67.0,
+   "study": "ct polytrauma",
+   "grid": [
+    200,
+    200,
+    525
+   ],
+   "torch_s": 5.98,
+   "trt_s": 5.34,
+   "vram_gb": 7.16,
+   "found": 116,
+   "scored": 109,
+   "median_dice": 0.8578,
+   "torch_trt_max_abs_dice_diff": 0.003
+  },
+  {
+   "case": "s1537",
+   "age": 50.0,
+   "study": "ct abdomen-pelvis",
+   "grid": [
+    297,
+    293,
+    374
+   ],
+   "torch_s": 8.91,
+   "trt_s": 8.01,
+   "vram_gb": 9.92,
+   "found": 90,
+   "scored": 72,
+   "median_dice": 0.9336,
+   "torch_trt_max_abs_dice_diff": 0.0012
+  },
+  {
+   "case": "s1950",
+   "age": 57.0,
+   "study": "ct polytrauma",
+   "grid": [
+    333,
+    284,
+    1230
+   ],
+   "torch_s": 65.75,
+   "trt_s": 66.67,
+   "vram_gb": 12.56,
+   "found": 117,
+   "scored": 112,
+   "median_dice": 0.9121,
+   "torch_trt_max_abs_dice_diff": 0.0022
+  },
+  {
+   "case": "s2025",
+   "age": 83.0,
+   "study": "ct abdomen-pelvis",
+   "grid": [
+    253,
+    233,
+    316
+   ],
+   "torch_s": 6.61,
+   "trt_s": 5.95,
+   "vram_gb": 6.59,
+   "found": 87,
+   "scored": 71,
+   "median_dice": 0.9305,
+   "torch_trt_max_abs_dice_diff": 0.0016
+  },
+  {
+   "case": "s1849",
+   "age": 62.0,
+   "study": "ct abdomen-pelvis",
+   "grid": [
+    231,
+    194,
+    281
+   ],
+   "torch_s": 4.43,
+   "trt_s": 3.98,
+   "vram_gb": 5.15,
+   "found": 85,
+   "scored": 64,
+   "median_dice": 0.951,
+   "torch_trt_max_abs_dice_diff": 0.0004
+  },
+  {
+   "case": "s1930",
+   "age": 86.0,
+   "study": "ct polytrauma",
+   "grid": [
+    267,
+    267,
+    623
+   ],
+   "torch_s": 15.48,
+   "trt_s": 18.19,
+   "vram_gb": 12.63,
+   "found": 116,
+   "scored": 113,
+   "median_dice": 0.8877,
+   "torch_trt_max_abs_dice_diff": 0.0025
+  },
+  {
+   "case": "s1893",
+   "age": 48.0,
+   "study": "ct polytrauma",
+   "grid": [
+    333,
+    266,
+    1157
+   ],
+   "torch_s": 52.29,
+   "trt_s": 54.5,
+   "vram_gb": 12.54,
+   "found": 117,
+   "scored": 114,
+   "median_dice": 0.915,
+   "torch_trt_max_abs_dice_diff": 0.0009
+  },
+  {
+   "case": "s1845",
+   "age": 16.0,
+   "study": "ct polytrauma",
+   "grid": [
+    277,
+    277,
+    598
+   ],
+   "torch_s": 13.37,
+   "trt_s": 15.86,
+   "vram_gb": 12.6,
+   "found": 116,
+   "scored": 108,
+   "median_dice": 0.8735,
+   "torch_trt_max_abs_dice_diff": 0.0022
+  },
+  {
+   "case": "s1835",
+   "age": 17.0,
+   "study": "ct polytrauma",
+   "grid": [
+    333,
+    327,
+    928
+   ],
+   "torch_s": 59.75,
+   "trt_s": 59.67,
+   "vram_gb": 12.62,
+   "found": 117,
+   "scored": 111,
+   "median_dice": 0.855,
+   "torch_trt_max_abs_dice_diff": 0.0023
+  },
+  {
+   "case": "s1840",
+   "age": 16.0,
+   "study": "ct polytrauma",
+   "grid": [
+    321,
+    284,
+    608
+   ],
+   "torch_s": 28.13,
+   "trt_s": 23.46,
+   "vram_gb": 12.56,
+   "found": 116,
+   "scored": 109,
+   "median_dice": 0.9213,
+   "torch_trt_max_abs_dice_diff": 0.0008
+  },
+  {
+   "case": "s1896",
+   "age": 17.0,
+   "study": "ct polytrauma",
+   "grid": [
+    333,
+    284,
+    1225
+   ],
+   "torch_s": 68.99,
+   "trt_s": 66.28,
+   "vram_gb": 12.51,
+   "found": 117,
+   "scored": 112,
+   "median_dice": 0.8624,
+   "torch_trt_max_abs_dice_diff": 0.0036
+  }
+ ],
+ "summary": {
+  "n_cases": 20,
+  "structure_checks": 1840,
+  "median_dice": 0.9172,
+  "mean_dice": 0.8531,
+  "pct_above_090": 57.9,
+  "pct_above_080": 81.1,
+  "trt_s": {
+   "min": 3.98,
+   "median": 10.43,
+   "max": 66.67
+  },
+  "torch_s": {
+   "min": 4.43,
+   "median": 11.39,
+   "max": 68.99
+  },
+  "trt_speedup_median": 1.11,
+  "vram_max_gb": 12.71,
+  "adults": {
+   "n": 16,
+   "median_case_dice": 0.9308000000000001
+  },
+  "children": {
+   "n": 4,
+   "median_case_dice": 0.86795
+  },
+  "worst_structures": [
+   {
+    "name": "kidney_cyst_left",
+    "median_dice": 0.2,
+    "n": 1
+   },
+   {
+    "name": "kidney_cyst_right",
+    "median_dice": 0.452,
+    "n": 3
+   },
+   {
+    "name": "humerus_left",
+    "median_dice": 0.616,
+    "n": 12
+   },
+   {
+    "name": "humerus_right",
+    "median_dice": 0.677,
+    "n": 12
+   },
+   {
+    "name": "common_carotid_artery_right",
+    "median_dice": 0.762,
+    "n": 8
+   },
+   {
+    "name": "subclavian_artery_left",
+    "median_dice": 0.769,
+    "n": 11
+   },
+   {
+    "name": "skull",
+    "median_dice": 0.772,
+    "n": 10
+   },
+   {
+    "name": "rib_right_5",
+    "median_dice": 0.794,
+    "n": 17
+   },
+   {
+    "name": "rib_left_4",
+    "median_dice": 0.808,
+    "n": 11
+   },
+   {
+    "name": "rib_right_4",
+    "median_dice": 0.814,
+    "n": 12
+   }
+  ],
+  "best_structures": [
+   {
+    "name": "vertebrae_L5",
+    "median_dice": 0.966,
+    "n": 19
+   },
+   {
+    "name": "vertebrae_T11",
+    "median_dice": 0.966,
+    "n": 20
+   },
+   {
+    "name": "vertebrae_L4",
+    "median_dice": 0.967,
+    "n": 20
+   },
+   {
+    "name": "vertebrae_T12",
+    "median_dice": 0.969,
+    "n": 20
+   },
+   {
+    "name": "lung_upper_lobe_right",
+    "median_dice": 0.969,
+    "n": 13
+   },
+   {
+    "name": "liver",
+    "median_dice": 0.97,
+    "n": 20
+   },
+   {
+    "name": "vertebrae_L2",
+    "median_dice": 0.973,
+    "n": 20
+   },
+   {
+    "name": "kidney_right",
+    "median_dice": 0.974,
+    "n": 20
+   },
+   {
+    "name": "kidney_left",
+    "median_dice": 0.974,
+    "n": 20
+   },
+   {
+    "name": "vertebrae_L1",
+    "median_dice": 0.974,
+    "n": 20
+   }
+  ],
+  "n_structure_types_scored": 116,
+  "max_abs_dice_diff_torch_vs_trt": 0.0036
+ }
+}

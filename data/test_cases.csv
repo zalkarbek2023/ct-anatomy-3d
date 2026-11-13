@@ -1,0 +1,21 @@
+image_id,age,institute,study_type,split,manufacturer,scanner_model,kvp,convolution_kernel,slice_thickness,pathology,pathology_location,gender
+s1922,74.0,J,ct angiography neck-thx-abd-pelvis-leg,train,,,,,,,,m
+s1806,35.0,J,ct neck-chest-abdomen-pelvis,test,,,,,,,,m
+s2032,25.0,J,ct abdomen-pelvis,train,,,,,,,,m
+s1836,67.0,J,ct polytrauma,train,,,,,,,,f
+s1959,40.0,J,ct abdomen-pelvis,train,,,,,,,,m
+s1872,55.0,J,ct polytrauma,train,,,,,,,,m
+s1710,73.0,J,ct abdomen / pelvis,train,,,,,,,,f
+s1935,37.0,J,ct abdomen-pelvis,train,,,,,,,,m
+s2029,68.0,J,ct abdomen-pelvis,train,,,,,,,,f
+s1553,67.0,J,ct polytrauma,train,,,,,,,,f
+s1537,50.0,J,ct abdomen-pelvis,train,,,,,,,,f
+s1950,57.0,J,ct polytrauma,train,,,,,,,,m
+s2025,83.0,J,ct abdomen-pelvis,train,,,,,,,,m
+s1849,62.0,J,ct abdomen-pelvis,train,,,,,,,,f
+s1930,86.0,J,ct polytrauma,train,,,,,,,,m
+s1893,48.0,J,ct polytrauma,train,,,,,,,,m
+s1845,16.0,J,ct polytrauma,train,,,,,,,,f
+s1835,17.0,J,ct polytrauma,train,,,,,,,,m
+s1840,16.0,J,ct polytrauma,train,,,,,,,,f
+s1896,17.0,J,ct polytrauma,train,,,,,,,,m
